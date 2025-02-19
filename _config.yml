@@ -14,9 +14,9 @@ timezone: Europe/Warsaw
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Han's Customization # the main title
+title: Han's Journey # the main title
 
-tagline: Mister Hans's blog about ubuntu/gnome customization # it will display as the subtitle
+tagline: Blog, w którym eksploruję Linuxa, Programowanie i inne # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog, programming, testing

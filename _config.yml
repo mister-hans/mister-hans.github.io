@@ -16,7 +16,7 @@ timezone: Europe/Warsaw
 
 title: Han's Customization # the main title
 
-tagline: Mister Hans blog about ubuntu/gnome customization # it will display as the subtitle
+tagline: Mister Hans's blog about ubuntu/gnome customization # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog, programming, testing
